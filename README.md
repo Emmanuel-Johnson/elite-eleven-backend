@@ -1,0 +1,5 @@
+DB_NAME=elite_eleven_db
+DB_USER=elite_eleven_user
+DB_PASSWORD=EliteEleven123
+DB_HOST=localhost
+DB_PORT=5432
